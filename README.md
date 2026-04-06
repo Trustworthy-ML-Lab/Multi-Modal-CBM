@@ -54,8 +54,12 @@ We compared two variants of MM-CBM (zero-shot and fine-tuned) against SpLiCE. Fo
 3. Bhalla et al., [Interpreting clip with sparse linear concept embeddings (splice)](https://arxiv.org/abs/2402.10376), NeurIPS 2024 
 4. Srivastava et al., [VLG-CBM: Training concept bottleneck models with vision-language guidance](https://arxiv.org/abs/2408.01432), NeurIPS 2024 
 5. Koh et al., [Concept bottleneck models](https://arxiv.org/abs/2007.04612), ICML 2020
-6. Yan, et al., [Learning concise and descriptive attributes for visual recognition](https://arxiv.org/abs/2308.03685), ICCV 2023
-7. Yang, et al., [Language in a bottle: Language model guided concept bottlenecks for interpretable image classification](https://arxiv.org/abs/2211.11158), CVPR 2023
+6. Liu et al., [Grounding dino: Marrying dino with grounded pre-training for open-set object detection](https://arxiv.org/abs/2303.05499), ECCV 2024
+7. Song et al., [Mpnet: Masked and permuted pre-training for language understanding](https://arxiv.org/abs/2004.09297), NeurIPS 2020.
+8. Dubey et al., [The llama 3 herd of models](https://arxiv.org/abs/2407.21783), arXiv preprint 2024.
+9. Liu et al., [Visual instruction tuning](https://arxiv.org/abs/2304.08485), NeurIPS 2023
+10. Yan, et al., [Learning concise and descriptive attributes for visual recognition](https://arxiv.org/abs/2308.03685), ICCV 2023
+11. Yang, et al., [Language in a bottle: Language model guided concept bottlenecks for interpretable image classification](https://arxiv.org/abs/2211.11158), CVPR 2023
 
 ## Cite this work
 T. Shi, G. Yan, T. Oikarinen, and T.-W. Weng, [Multimodal concept bottleneck models](https://openreview.net/pdf?id=6r2ercqOo8), Preprint 2025.
