@@ -1,0 +1,577 @@
+{
+    "Apple pie": [
+        "dessert",
+        "food",
+        "pie"
+    ],
+    "Baby back ribs": [
+        "food",
+        "meat",
+        "ribs"
+    ],
+    "Baklava": [
+        "dessert",
+        "dessert dish",
+        "food",
+        "pastry"
+    ],
+    "Beef carpaccio": [
+        "cuisine",
+        "dish",
+        "entree",
+        "food"
+    ],
+    "Beef tartare": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Beet salad": [
+        "dish",
+        "food",
+        "salad",
+        "vegetable",
+        "vegetable dish"
+    ],
+    "Beignets": [
+        "dessert",
+        "food",
+        "pastry",
+        "snack"
+    ],
+    "Bibimbap": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Bread pudding": [
+        "dessert",
+        "dish",
+        "food"
+    ],
+    "Breakfast burrito": [
+        "breakfast food",
+        "burrito",
+        "dish",
+        "food",
+        "meal"
+    ],
+    "Bruschetta": [
+        "appetizer",
+        "dish",
+        "food"
+    ],
+    "Caesar salad": [
+        "dish",
+        "food",
+        "salad"
+    ],
+    "Cannoli": [
+        "dessert",
+        "food",
+        "pastry"
+    ],
+    "Caprese salad": [
+        "appetizer",
+        "dish",
+        "food",
+        "salad"
+    ],
+    "Carrot cake": [
+        "cake",
+        "dessert",
+        "food"
+    ],
+    "Ceviche": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Cheesecake": [
+        "baked good",
+        "cake",
+        "dairy",
+        "dessert",
+        "food"
+    ],
+    "Cheese plate": [
+        "container",
+        "dish",
+        "food",
+        "object",
+        "plate"
+    ],
+    "Chicken curry": [
+        "curry",
+        "dish",
+        "food",
+        "meal"
+    ],
+    "Chicken quesadilla": [
+        "Mexican cuisine",
+        "dish",
+        "food",
+        "mexican cuisine"
+    ],
+    "Chicken wings": [
+        "food",
+        "meat",
+        "poultry"
+    ],
+    "Chocolate cake": [
+        "cake",
+        "dessert",
+        "food"
+    ],
+    "Chocolate mousse": [
+        "dessert",
+        "dish",
+        "food"
+    ],
+    "Churros": [
+        "dessert",
+        "food",
+        "snack"
+    ],
+    "Clam chowder": [
+        "dish",
+        "food",
+        "soup"
+    ],
+    "Club sandwich": [
+        "dish",
+        "food",
+        "sandwich"
+    ],
+    "Crab cakes": [
+        "dish",
+        "food",
+        "seafood"
+    ],
+    "Creme brulee": [
+        "custard",
+        "dessert",
+        "dish",
+        "food"
+    ],
+    "Croque madame": [
+        "dish",
+        "food",
+        "sandwich"
+    ],
+    "Cup cakes": [
+        "baked goods",
+        "cake",
+        "dessert",
+        "desserts",
+        "food",
+        "food items"
+    ],
+    "Deviled eggs": [
+        "appetizer",
+        "dish",
+        "eggs",
+        "food"
+    ],
+    "Donuts": [
+        "baked goods",
+        "dessert",
+        "food",
+        "pastry"
+    ],
+    "Dumplings": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Edamame": [
+        "food",
+        "legume",
+        "plant",
+        "vegetable"
+    ],
+    "Eggs benedict": [
+        "breakfast dish",
+        "breakfast item",
+        "dish",
+        "egg dish",
+        "food"
+    ],
+    "Escargots": [
+        "cuisine",
+        "dish",
+        "food",
+        "invertebrate",
+        "mollusk",
+        "snail"
+    ],
+    "Falafel": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Filet mignon": [
+        "dish",
+        "food",
+        "meat"
+    ],
+    "Fish and chips": [
+        "cuisine",
+        "dish",
+        "food",
+        "meal"
+    ],
+    "Foie gras": [
+        "delicacy",
+        "edible item",
+        "food",
+        "poultry"
+    ],
+    "French fries": [
+        "cuisine",
+        "dish",
+        "food",
+        "potato dish",
+        "snack"
+    ],
+    "French onion soup": [
+        "cuisine",
+        "dish",
+        "food",
+        "soup"
+    ],
+    "French toast": [
+        "breakfast food",
+        "dish",
+        "toast"
+    ],
+    "Fried calamari": [
+        "appetizer",
+        "food",
+        "seafood"
+    ],
+    "Fried rice": [
+        "cuisine",
+        "dish",
+        "food",
+        "grain",
+        "rice"
+    ],
+    "Frozen yogurt": [
+        "dairy product",
+        "dessert",
+        "food"
+    ],
+    "Garlic bread": [
+        "bread",
+        "edible item",
+        "food"
+    ],
+    "Gnocchi": [
+        "dish",
+        "food",
+        "pasta"
+    ],
+    "Greek salad": [
+        "dish",
+        "food",
+        "salad"
+    ],
+    "Grilled cheese sandwich": [
+        "dish",
+        "food",
+        "sandwich"
+    ],
+    "Grilled salmon": [
+        "fish",
+        "food",
+        "protein",
+        "seafood"
+    ],
+    "Guacamole": [
+        "appetizer",
+        "dip",
+        "edible",
+        "food"
+    ],
+    "Gyoza": [
+        "Asian cuisine",
+        "dish",
+        "dumpling",
+        "food"
+    ],
+    "Hamburger": [
+        "dish",
+        "food",
+        "meal"
+    ],
+    "Hot and sour soup": [
+        "dish",
+        "food",
+        "soup"
+    ],
+    "Hot dog": [
+        "dish",
+        "food",
+        "meal",
+        "snack"
+    ],
+    "Huevos rancheros": [
+        "Mexican cuisine",
+        "breakfast dish",
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Hummus": [
+        "dip",
+        "edible",
+        "food"
+    ],
+    "Ice cream": [
+        "dairy product",
+        "dessert",
+        "edible item",
+        "food"
+    ],
+    "Lasagna": [
+        "Italian dish",
+        "dish",
+        "food",
+        "pasta",
+        "pasta dish"
+    ],
+    "Lobster bisque": [
+        "dish",
+        "food",
+        "seafood dish",
+        "soup"
+    ],
+    "Lobster roll sandwich": [
+        "dish",
+        "food",
+        "sandwich"
+    ],
+    "Macaroni and cheese": [
+        "dish",
+        "food",
+        "pasta"
+    ],
+    "Macarons": [
+        "confectionery",
+        "dessert",
+        "food",
+        "pastry"
+    ],
+    "Miso soup": [
+        "dish",
+        "food",
+        "soup"
+    ],
+    "Mussels": [
+        "animal",
+        "invertebrate",
+        "mollusk",
+        "seafood",
+        "shellfish"
+    ],
+    "Nachos": [
+        "appetizer",
+        "dish",
+        "food",
+        "snack"
+    ],
+    "Omelette": [
+        "dish",
+        "egg dish",
+        "food",
+        "meal"
+    ],
+    "Onion rings": [
+        "appetizer",
+        "food",
+        "fried food",
+        "snack"
+    ],
+    "Oysters": [
+        "animal",
+        "mollusk",
+        "seafood",
+        "shellfish"
+    ],
+    "Pad thai": [
+        "cuisine",
+        "food",
+        "noodle dish",
+        "thai cuisine",
+        "thai food"
+    ],
+    "Paella": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Pancakes": [
+        "baked good",
+        "breakfast",
+        "dish",
+        "food"
+    ],
+    "Panna cotta": [
+        "dairy product",
+        "dessert",
+        "dish",
+        "food"
+    ],
+    "Peking duck": [
+        "animal",
+        "bird",
+        "duck",
+        "vertebrate"
+    ],
+    "Pho": [
+        "dish",
+        "food",
+        "soup"
+    ],
+    "Pizza": [
+        "cuisine",
+        "dish",
+        "food",
+        "meal"
+    ],
+    "Pork chop": [
+        "dish",
+        "food",
+        "meat"
+    ],
+    "Poutine": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Prime rib": [
+        "dish",
+        "food",
+        "meat"
+    ],
+    "Pulled pork sandwich": [
+        "dish",
+        "food",
+        "sandwich"
+    ],
+    "Ramen": [
+        "cuisine",
+        "dish",
+        "food",
+        "noodle",
+        "noodle dish"
+    ],
+    "Ravioli": [
+        "dish",
+        "food",
+        "pasta"
+    ],
+    "Red velvet cake": [
+        "cake",
+        "dessert",
+        "food"
+    ],
+    "Risotto": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Samosa": [
+        "appetizer",
+        "dish",
+        "food",
+        "snack"
+    ],
+    "Sashimi": [
+        "cuisine",
+        "dish",
+        "food",
+        "seafood"
+    ],
+    "Scallops": [
+        "animal",
+        "mollusk",
+        "seafood",
+        "vertebrate"
+    ],
+    "Seaweed salad": [
+        "food",
+        "plant",
+        "salad",
+        "seaweed"
+    ],
+    "Shrimp and grits": [
+        "cuisine",
+        "dish",
+        "food",
+        "seafood"
+    ],
+    "Spaghetti bolognese": [
+        "Italian cuisine",
+        "food",
+        "pasta dish"
+    ],
+    "Spaghetti carbonara": [
+        "Italian cuisine",
+        "dish",
+        "food",
+        "pasta",
+        "pasta dish"
+    ],
+    "Spring rolls": [
+        "Asian cuisine",
+        "appetizer",
+        "dish",
+        "food"
+    ],
+    "Steak": [
+        "dish",
+        "food",
+        "meat"
+    ],
+    "Strawberry shortcake": [
+        "baked good",
+        "cake",
+        "dessert",
+        "food"
+    ],
+    "Sushi": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Tacos": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Takoyaki": [
+        "cuisine",
+        "dish",
+        "food",
+        "snack"
+    ],
+    "Tiramisu": [
+        "dessert",
+        "dish",
+        "food"
+    ],
+    "Tuna tartare": [
+        "cuisine",
+        "dish",
+        "food"
+    ],
+    "Waffles": [
+        "breakfast",
+        "breakfast food",
+        "dish",
+        "edible item",
+        "food"
+    ]
+}

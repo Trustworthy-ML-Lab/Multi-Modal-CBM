@@ -1,0 +1,296 @@
+{
+    "banded": [
+        "decorated",
+        "differentiated",
+        "marked",
+        "patterned",
+        "striped"
+    ],
+    "blotchy": [
+        "appearance",
+        "marked",
+        "patterned",
+        "skin",
+        "textured"
+    ],
+    "braided": [
+        "hair",
+        "hairstyle",
+        "pattern",
+        "textile",
+        "texture"
+    ],
+    "bubbly": [
+        "beverage",
+        "drink",
+        "liquid"
+    ],
+    "bumpy": [
+        "appearance",
+        "quality",
+        "surface",
+        "texture"
+    ],
+    "chequered": [
+        "design",
+        "pattern",
+        "textile",
+        "texture"
+    ],
+    "cobwebbed": [
+        "insect",
+        "spider",
+        "spider silk",
+        "spider web",
+        "texture",
+        "web",
+        "webbed"
+    ],
+    "cracked": [
+        "broken",
+        "damaged",
+        "impaired",
+        "imperfect"
+    ],
+    "crosshatched": [
+        "design",
+        "drawing",
+        "line",
+        "marking",
+        "pattern"
+    ],
+    "crystalline": [
+        "crystal",
+        "material",
+        "solid",
+        "substance"
+    ],
+    "dotted": [
+        "design",
+        "ornamented",
+        "patterned",
+        "textured",
+        "visual"
+    ],
+    "fibrous": [
+        "material",
+        "organic",
+        "plant",
+        "substance"
+    ],
+    "flecked": [
+        "dotted",
+        "patterned",
+        "speckled",
+        "spotted"
+    ],
+    "freckled": [
+        "characteristic",
+        "physical feature",
+        "skin"
+    ],
+    "frilly": [
+        "clothing",
+        "fabric",
+        "garment",
+        "textile"
+    ],
+    "gauzy": [
+        "fabric",
+        "material",
+        "textile"
+    ],
+    "grid": [
+        "design",
+        "framework",
+        "pattern",
+        "structure"
+    ],
+    "grooved": [
+        "patterned",
+        "rough",
+        "surface",
+        "surfaced",
+        "textured"
+    ],
+    "honeycombed": [
+        "pattern",
+        "patterned",
+        "structure",
+        "texture",
+        "textured"
+    ],
+    "interlaced": [
+        "art",
+        "connected",
+        "design",
+        "interwoven",
+        "pattern",
+        "related"
+    ],
+    "knitted": [
+        "artifact",
+        "clothing",
+        "fabric",
+        "material",
+        "textile"
+    ],
+    "lacelike": [
+        "fabric",
+        "material",
+        "textile"
+    ],
+    "lined": [
+        "decorated",
+        "patterned",
+        "textured"
+    ],
+    "marbled": [
+        "decorated",
+        "patterned",
+        "textured"
+    ],
+    "matted": [
+        "material",
+        "surface",
+        "textured"
+    ],
+    "meshed": [
+        "design",
+        "material",
+        "object",
+        "pattern",
+        "texture"
+    ],
+    "paisley": [
+        "artwork",
+        "design",
+        "pattern",
+        "textile"
+    ],
+    "perforated": [
+        "feature",
+        "hole",
+        "object",
+        "opening",
+        "structure"
+    ],
+    "pitted": [
+        "adjective",
+        "damaged",
+        "imperfect"
+    ],
+    "pleated": [
+        "clothing",
+        "fabric",
+        "material",
+        "object",
+        "textile"
+    ],
+    "polka-dotted": [
+        "decoration",
+        "design",
+        "pattern",
+        "patterned",
+        "textile"
+    ],
+    "porous": [
+        "material",
+        "property",
+        "quality",
+        "substance",
+        "texture"
+    ],
+    "potholed": [
+        "road",
+        "surface",
+        "terrain"
+    ],
+    "scaly": [
+        "animal",
+        "organism",
+        "physical characteristic",
+        "reptile",
+        "reptilian"
+    ],
+    "smeared": [
+        "action",
+        "behavior",
+        "dirty",
+        "messy",
+        "unclean",
+        "verb"
+    ],
+    "spiralled": [
+        "curved",
+        "form",
+        "object",
+        "shape"
+    ],
+    "sprinkled": [
+        "applied",
+        "covered",
+        "distributed",
+        "scattered",
+        "spread"
+    ],
+    "stained": [
+        "dirty",
+        "discolored",
+        "dyed",
+        "marked",
+        "unclean"
+    ],
+    "stratified": [
+        "arranged",
+        "complex",
+        "composite",
+        "layered"
+    ],
+    "striped": [
+        "design",
+        "patterned",
+        "textured"
+    ],
+    "studded": [
+        "adorned",
+        "adornment",
+        "decorated",
+        "decoration",
+        "embellished",
+        "embellishment"
+    ],
+    "swirly": [
+        "design",
+        "pattern",
+        "shape"
+    ],
+    "veined": [
+        "marked",
+        "patterned",
+        "textured"
+    ],
+    "waffled": [
+        "breakfast item",
+        "edible",
+        "food",
+        "snack"
+    ],
+    "woven": [
+        "fabric",
+        "material",
+        "textile"
+    ],
+    "wrinkled": [
+        "appearance",
+        "characteristic",
+        "skin",
+        "texture"
+    ],
+    "zigzagged": [
+        "action",
+        "behavior",
+        "movement",
+        "verb"
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "Abyssinian": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "American Bulldog": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "American Pit Bull Terrier": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Basset Hound": [
+        "animal",
+        "dog",
+        "mammal"
+    ],
+    "Beagle": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Bengal": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "Birman": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "Bombay": [
+        "city",
+        "location",
+        "place"
+    ],
+    "Boxer": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "British Shorthair": [
+        "animal",
+        "cat",
+        "mammal",
+        "vertebrate"
+    ],
+    "Chihuahua": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Egyptian Mau": [
+        "animal",
+        "cat",
+        "feline",
+        "mammal"
+    ],
+    "English Cocker Spaniel": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "English Setter": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "German Shorthaired": [
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Great Pyrenees": [
+        "animal",
+        "dog",
+        "mammal"
+    ],
+    "Havanese": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Japanese Chin": [
+        "animal",
+        "dog",
+        "mammal"
+    ],
+    "Keeshond": [
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Leonberger": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Maine Coon": [
+        "animal",
+        "cat",
+        "feline",
+        "mammal",
+        "pet"
+    ],
+    "Miniature Pinscher": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Newfoundland": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Persian": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "Pomeranian": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Pug": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Ragdoll": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "Russian Blue": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "Saint Bernard": [
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Samoyed": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Scottish Terrier": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Shiba Inu": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Siamese": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "Sphynx": [
+        "animal",
+        "cat",
+        "mammal"
+    ],
+    "Staffordshire Bull Terrier": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Wheaten Terrier": [
+        "canine",
+        "dog",
+        "mammal"
+    ],
+    "Yorkshire Terrier": [
+        "animal",
+        "canine",
+        "dog",
+        "mammal"
+    ]
+}

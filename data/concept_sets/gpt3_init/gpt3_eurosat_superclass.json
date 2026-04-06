@@ -1,0 +1,61 @@
+{
+    "AnnualCrop": [
+        "crop",
+        "organism",
+        "plant"
+    ],
+    "Forest": [
+        "biome",
+        "ecosystem",
+        "environment",
+        "habitat",
+        "landform"
+    ],
+    "HerbaceousVegetation": [
+        "living thing",
+        "organism",
+        "plant",
+        "vegetation"
+    ],
+    "Highway": [
+        "infrastructure",
+        "road",
+        "transportation"
+    ],
+    "Industrial": [
+        "business",
+        "manufacturing",
+        "production",
+        "sector"
+    ],
+    "Pasture": [
+        "area",
+        "environment",
+        "land"
+    ],
+    "PermanentCrop": [
+        "agricultural product",
+        "crop",
+        "organism",
+        "plant"
+    ],
+    "Residential": [
+        "building",
+        "property",
+        "structure"
+    ],
+    "River": [
+        "body of water",
+        "geographical feature",
+        "geography",
+        "natural feature",
+        "waterway"
+    ],
+    "SeaLake": [
+        "body of water",
+        "geographic feature",
+        "geographical feature",
+        "water",
+        "waterbody"
+    ]
+}
