@@ -1,6 +1,6 @@
 # Multimodal Concept Bottleneck Models
 
-* This is our official repo of **[Multi-Modal Concept Bottleneck Models (MM-CBMs)](https://openreview.net/pdf?id=6r2ercqOo8)** at Mechanistic Interpretability Workshop at NeurIPS 2025. MM-CBM is a new framework to transform multi-modal models such as CLIP into fully interpretable models with human-friendly concepts while preserving zero-shot ability. 
+* This is our official repo of **[Multi-Modal Concept Bottleneck Models (MM-CBMs)](https://openreview.net/pdf?id=6r2ercqOo8)** presented at NeurIPS 2025 Mechanistic Interpretability Workshop (non-archival).
 * Please see our [Project Page](https://lilywenglab.github.io/Multi-Modal-CBM/) for a quick overview of our work.
 
 <p align="center">
