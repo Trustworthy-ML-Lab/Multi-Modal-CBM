@@ -64,9 +64,10 @@ We compared two variants of MM-CBM (zero-shot and fine-tuned) against SpLiCE. Fo
 ## Cite this work
 T. Shi, G. Yan, T. Oikarinen, and T.-W. Weng, [Multimodal concept bottleneck models](https://openreview.net/pdf?id=6r2ercqOo8), Preprint 2025.
 ```
-@misc{shi2025multimodal,
-      title={Multimodal Concept Bottleneck Models},
-      author={Shi, Tongqing and Yan, Ge and Oikarinen, Tuomas and Weng, Tsui-Wei},
-      booktitle={Preprint 2025}
-    }
+@article{shi2026multimodal,
+        title   = {Multimodal Concept Bottleneck Models},
+        author  = {Shi, Tongqing and Yan, Ge and Oikarinen, Tuomas and Weng, Tsui-Wei},
+        journal = {Transactions on Machine Learning Research},
+        year    = {2026}
+        }
 ```
